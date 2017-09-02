@@ -5,7 +5,7 @@ Ok, now I'm editing the file locally.
 Making Changes to generate conflicts:
 
 List
-1) Item 1
-2) Item 2
-3) Item 3
-4) Item 4
+1) Item uno
+2) Item dos
+3) Item tres
+4) Item cuatro
